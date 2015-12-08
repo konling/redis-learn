@@ -11,5 +11,5 @@
 
 - #### [Redis-HA(高可用集群方案)梳理](redis-ha) --待完成
 
-- #### [Redis-合库](redis-merge)
+- #### [Redis-合库](https://github.com/konling/redis-learn/blob/master/redis-merge.md)
 

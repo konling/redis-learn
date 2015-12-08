@@ -28,6 +28,6 @@ rdb合并 和  aof 合并 后 启动 新 Redis 读取合并之后的db 文件.
 	appendonly yes  //开启aof选择
 	appendfilename appendonly_all.aof //合并后的aof文件
 
-### 参考:http://www.cnblogs.com/zhenzi/p/4292635.html?utm_source=tuicool&utm_medium=referral
+> [参考Redis-合库](http://www.cnblogs.com/zhenzi/p/4292635.html?utm_source=tuicool&utm_medium=referral)
 
 
